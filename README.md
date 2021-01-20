@@ -127,6 +127,8 @@ Para construir uma **lista de tarefas** é necessário utilizar o sinal de menos
    - [x] Tarefa 2.1
  
    P.S: Quando as tarefas ou objetivos forem concluidos, basta voltar no código da lista e preencher o espaço entre os colchetes com um x.Nessa lista não existem mudanças entre os simbolos dos marcadores, como visto nos exemplos anteiores.
+
+   teste1
    
    
 
